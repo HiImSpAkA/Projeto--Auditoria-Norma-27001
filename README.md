@@ -2,6 +2,7 @@ Para utilização desta aplicação é necessário:
 
 -Editor/Editores que possam ser utilizados as frameworks React e Spring Boot.
 -Instalação de dependencias npm e Vite (React).
+- Instalar MySql
 
 Após as tecnologias estarem instaladas o processo para utilizar é:
 Frontend:
@@ -11,7 +12,8 @@ Frontend:
 - Devera aparecer o frontend.
 
 Backend:
-- Criar uma enviroment variable com o nome "GEMINI_API_KEY" e inserir a sua chave de API Gemini ou no ficheiro aplication properties substituir diretamente.
+- Criar uma enviroment variable com o nome "GEMINI_API_KEY" e inserir a sua chave de API Gemini ou no ficheiro aplication.properties substituir diretamente.
+- Altere no aplication.properties onde diz "password" para a sua password definida no Mysql
 - Run AuditoriaApplication.java
 
 Feitos estes passos a aplicação deve funcionar corretamente.
