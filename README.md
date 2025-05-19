@@ -13,7 +13,7 @@ Frontend:
 
 Backend:
 - Criar uma enviroment variable com o nome "GEMINI_API_KEY" e inserir a sua chave de API Gemini ou no ficheiro aplication.properties substituir diretamente.
-- Altere no aplication.properties onde diz "password" para a sua password definida no Mysql
+- Altere no aplication.properties onde diz "passwordmysql" para a sua password definida no Mysql e caso necessario modifique o "root" para o seu nome de utilizador definido.
 - Run AuditoriaApplication.java
 
 Feitos estes passos a aplicação deve funcionar corretamente.
