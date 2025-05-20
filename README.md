@@ -1,7 +1,8 @@
 Para utilização desta aplicação é necessário:
 
--Editor/Editores que possam ser utilizados as frameworks React e Spring Boot.
--Instalação de dependencias npm e Vite (React).
+
+- Editor/Editores que possam ser utilizados as frameworks React e Spring Boot.
+- Instalação de dependencias npm e Vite (React).
 - Instalar MySql
 
 Após as tecnologias estarem instaladas o processo para utilizar é:
