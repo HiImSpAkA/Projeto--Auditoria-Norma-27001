@@ -6,6 +6,7 @@ Para utilização desta aplicação é necessário:
 - Instalar MySql
 
 Após as tecnologias estarem instaladas o processo para utilizar é:
+
 Frontend:
 - Aceder no cmd a pasta definida. Ex: cd Auditoria Norma 27001 (se estiver na pasta utilizador)
 - De seguida npm run dev
