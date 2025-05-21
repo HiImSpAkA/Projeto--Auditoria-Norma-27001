@@ -14,6 +14,7 @@ Frontend:
 - Devera aparecer o frontend.
 
 Backend:
+- Importar projeto como "Maven".
 - Criar uma enviroment variable com o nome "GEMINI_API_KEY" e inserir a sua chave de API Gemini ou no ficheiro aplication.properties substituir diretamente.
 - Altere no aplication.properties onde diz "passwordmysql" para a sua password definida no Mysql e caso necessario modifique o "root" para o seu nome de utilizador definido.
 - Run AuditoriaApplication.java
